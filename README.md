@@ -39,7 +39,7 @@ Lastly, we deployed our model and created a web app.
 
 https://sentiment-crypto.herokuapp.com/
 
-#### Adaptability
+### Adaptability
 We can adapt crypto in various industries:
 
 Financial Services
@@ -61,7 +61,7 @@ Retail
 
 E-commerce
 
-##### Challenges and Improvements
+### Challenges and Improvements
 - Gathering data was a hair-pulling procees. It took 80% of my time in making this project.
 - I only added three coins, we can add more data to get better results.
 - Can use another modelling to get the better accuracy of the model.
